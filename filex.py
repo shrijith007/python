@@ -1,6 +1,5 @@
 import PySimpleGUI as sh
 import os,time
-import itertools
 files=[]
 list=[]
 list1=[]
